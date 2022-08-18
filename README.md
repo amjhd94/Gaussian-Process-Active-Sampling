@@ -2,7 +2,7 @@
 In this project, I use Bayesian active learning and experimental design, and output-weighted acquisition functions to create Gaussian processes that model rare extreme events 
 
 # Getting started
-The following in the master directory should take care of everything:
+The following (in the master directory) should take care of everything:
 ```bash
 pip install .
 ```
